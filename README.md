@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Bryan / VaCris</h1>
+<h1 align="center">Hola 👋 soy Bryan / Cris</h1>
 
 <p align="center">
   <a href="https://discord.gg/PRDX5ayBgB" target="_blank">
