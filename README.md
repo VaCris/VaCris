@@ -80,9 +80,9 @@
       </td>
     </tr>
   </table>
-  <div align="left">
+  <!--<div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ver Trofeos">
       <img width="84%" src="https://github-profile-trophy.vercel.app/?username=VaCris&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos" />
     </a>
-  </div>
+  </div>-->
 </p>
