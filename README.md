@@ -59,6 +59,6 @@
 
 ## GitHub :octocat:  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaCris&theme=dark&hide_border=false" width="49%" alt="Estadísticas de racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaCris&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api?username=VaCris&show_icons=true&theme=radical)" width="49%" alt="Estadísticas de racha" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaCris&theme=dark&hide_border=false&langs_count=10" width="49%" alt="Lenguajes más usados" />
 </p>
