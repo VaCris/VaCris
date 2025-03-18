@@ -25,7 +25,7 @@
 ## Tecnologías que utilizo 👨🏻‍💻  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,git,github,jquery,npm,java,nodejs,typescript,react,nextjs,npm,tailwind,vscode" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,git,github,jquery,npm,java,nodejs,react,npm,vscode" alt="Tecnologías" />
   </a>
 </p>
 
