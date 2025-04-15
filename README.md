@@ -17,7 +17,7 @@
 ## Sobre mí 😃  
 🎓 Estudiante de Desarrollador de Software en **Senati**.  
 💻 Enfocado en **desarrollo de aplicaciones web**.  
-🔧 Habilidades en **Tailwind CSS, CSS3, JavaScript, PHP,Typescript, React, Git y GitHub**.  
+🔧 Habilidades en **Tailwind CSS, CSS3, JavaScript, PHP,Typescript,Git y GitHub**.  
 📫 Contacto: **vidalbryanalexander@gmail.com**  
 
 ---
@@ -25,7 +25,7 @@
 ## Tecnologías que utilizo 👨🏻‍💻  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,git,github,jquery,npm,java,nodejs,react,npm,vscode" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,git,github,jquery,npm,java,nodejs,npm,vscode" alt="Tecnologías" />
   </a>
 </p>
 
