@@ -15,7 +15,7 @@
 ---
 
 ## Sobre mí 😃  
-🎓 Estudiante de Desarrollado de Software en **Senati**.  
+🎓 Estudiante de Desarrollo de Software en **Senati**.  
 💻 Enfocado en **desarrollo de aplicaciones web**.  
 🔧 Habilidades en **Tailwind CSS, CSS3, JavaScript, PHP,Typescript,Git y GitHub**.  
 📫 Contacto: **vidalbryanalexander@gmail.com**  
