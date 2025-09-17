@@ -12,7 +12,6 @@
   </a>
 </p>
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat" alt="VaCris" />
 </p>
@@ -75,3 +74,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VaCris&show_icons=true" />
 </picture>
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=144495404)
