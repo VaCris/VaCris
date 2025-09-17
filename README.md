@@ -13,6 +13,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat" alt="VaCris" />
+</p>
+---
 
 ## Sobre mí 😃  
 🎓 Estudiante de Desarrollo de Software en **Senati**.  
