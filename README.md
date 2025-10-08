@@ -43,7 +43,7 @@
       </a>
       <br>
       <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
-        <img src="web_series.png" alt="GitHub Proyecto WebSeries" />
+        <img src="#" alt="GitHub Proyecto WebSeries" />
       </a>
     </td>
     <td align="center" width="50%">
