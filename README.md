@@ -38,11 +38,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/VaCris/webseries-VaCris" target="_blank" rel="noopener noreferrer">
+      <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://iili.io/djgPznj.png" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
       </a>
       <br>
-      <a href="[https://github.com/VaCris/webseries-VaCris](https://sp-tv.onrender.com/)" target="_blank" rel="noopener noreferrer">
+      <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Proyecto WebSeries" />
       </a>
     </td>
