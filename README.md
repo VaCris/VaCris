@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Vidal</h1>
+# Hola 👋 soy Vidal
 
 <p align="center">
   <a href="https://discord.gg/PRDX5ayBgB" target="_blank" rel="noopener noreferrer">
@@ -16,11 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat" alt="VaCris" />
 </p>
 
-
 ## Sobre mí 😃  
 🎓 Estudiante de Desarrollo de Software en **Senati**.  
 💻 Enfocado en **desarrollo de aplicaciones web**.  
-🔧 Habilidades con **SQL,MYSQL,C#,PHP,Git y GitHub**.  
+🔧 Habilidades con **SQL, MySQL, C#, PHP, Git y GitHub**.  
 📫 Contacto: **vidalbryanalexander@gmail.com**  
 
 ---
@@ -37,12 +36,13 @@
 ## Algunos proyectos 👨🏻‍💻  
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
-        <img src="web_series.png" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
+        <img src="https://github.com/VaCris/VaCris/raw/main/web_series.png" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
       </a>
-      <br>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/VaCris/Crud-Basico-en-JSP-con-MYSQL" target="_blank" rel="noopener noreferrer">
         <img src="https://iili.io/djge4hN.png" width="100%" alt="Proyecto CRUD JSP" title="Ver Proyecto CRUD JSP" />
@@ -51,6 +51,9 @@
       <a href="https://github.com/VaCris/Crud-Basico-en-JSP-con-MYSQL" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Proyecto CRUD JSP" />
       </a>
+    </td>
+    <td align="center" width="50%">
+      <!-- estructura de la tabla -->
     </td>
   </tr>
 </table>
