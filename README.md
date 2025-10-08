@@ -42,9 +42,6 @@
         <img src="web_series.png" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
       </a>
       <br>
-      <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
-        <img src="#" alt="GitHub Proyecto WebSeries" />
-      </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/VaCris/Crud-Basico-en-JSP-con-MYSQL" target="_blank" rel="noopener noreferrer">
