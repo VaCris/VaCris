@@ -1,4 +1,4 @@
-# Hola 👋 soy Vidal
+<h1 align="center">#Hola 👋 soy Vidal</h1>
 
 <p align="center">
   <a href="https://discord.gg/PRDX5ayBgB" target="_blank" rel="noopener noreferrer">
