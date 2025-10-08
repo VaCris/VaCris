@@ -39,11 +39,11 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://prnt.sc/rchC7tudQ5Z_" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
+        <img src="web_series.png" width="100%" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" />
       </a>
       <br>
       <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://prnt.sc/rchC7tudQ5Z_" alt="GitHub Proyecto WebSeries" />
+        <img src="web_series.png" alt="GitHub Proyecto WebSeries" />
       </a>
     </td>
     <td align="center" width="50%">
