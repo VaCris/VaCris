@@ -39,7 +39,7 @@
 <p align="center">
   <strong>TKOH Bookstore Shop</strong><br>
   <a href="https://github.com/VaCris/TKOH-Bookstore-Shop" target="_blank" rel="noopener noreferrer">
-    <img src="https://iili.io/djge4hN.png" width="600" alt="TKOH Bookstore Shop" title="Ver TKOH Bookstore Shop" style="border-radius: 10px;" />
+    <img src="https://github.com/VaCris/VaCris/blob/main/web_shop.jpg" width="600" alt="TKOH Bookstore Shop" title="Ver TKOH Bookstore Shop" style="border-radius: 10px;" />
   </a>
   <br><br>
   <a href="https://github.com/VaCris/TKOH-Bookstore-Shop" target="_blank" rel="noopener noreferrer">
