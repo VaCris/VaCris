@@ -75,7 +75,7 @@
 ## 🌐 Redes Sociales | Socials
 
 <div align="center">
-  <a href="https://discord.gg/PRDX5ayBgB" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/kNxMy35A4c" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:vidalbryanalexander@gmail.com" target="_blank" rel="noopener noreferrer">
