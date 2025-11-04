@@ -34,6 +34,10 @@
   <a href="https://sp-tv.onrender.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/VaCris/VaCris/raw/main/web_series.png" width="600" alt="Proyecto WebSeries" title="Ver Proyecto WebSeries" style="border-radius: 10px;" />
   </a>
+  <br><br>
+  <a href="https://github.com/VaCris/sp-tv" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ver Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub WebSeries" />
+  </a>
 </p>
 
 <p align="center">
