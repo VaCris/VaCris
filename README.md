@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Vidal! 👋</h1>
-<h3 align="center">Desarrollo de Software | Software Development</h3>
+<h3 align="center">Desarrollador de Software | Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat" alt="VaCris" />
@@ -9,9 +9,8 @@
 
 ## 📚 Sobre mí | About Me
 
-- 🎓 Estudiante de **Desarrollo de Software** en **Senati**.
 - 💻 Enfocado en el **desarrollo de aplicaciones web**.
-- 🔧 Habilidades con **SQL, MySQL, C#, PHP, Git y GitHub**.
+- 🔧 Habilidades con **SQL, MySQL, C#, PHP, React, NestJs, Git y GitHub**.
 - 📫 Puedes contactarme: [vidalbryanalexander@gmail.com](mailto:vidalbryanalexander@gmail.com)
 - 🌐 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/bryan-alexander-vidal-crispin-110410301)
 
