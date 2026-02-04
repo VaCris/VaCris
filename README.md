@@ -51,14 +51,14 @@
 </p>
 
 <p align="center">
-  <strong>Zenith-Timer</strong><br>
+  <strong>Ataraxia-Timer</strong><br>
   <a href="https://github.com/VaCris/Zenith-Timer" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/VaCris/VaCris/blob/main/zenith_preview.png" width="600" alt="Zenith-Timer" title="Ver Zenith-Timer" style="border-radius: 10px;" />
     <img src="https://github.com/VaCris/VaCris/blob/main/zenith_preview2.png" width="600" alt="Zenith-Timer" title="Ver Zenith-Timer" style="border-radius: 10px;" />
   </a>
   <br><br>
-  <a href="https://github.com/VaCris/Zenith-Timer" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Ver Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Zenith-Timer" />
+  <a href="https://github.com/VaCris/Ataraxia-Timer" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ver Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Ataraxia-Timer" />
   </a>
 </p>
 
