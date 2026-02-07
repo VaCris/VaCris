@@ -11,7 +11,7 @@
 
 - 💻 Enfocado en el **desarrollo de aplicaciones web**.
 - 🔧 Habilidades con **SQL, MySQL, C#, PHP, React, NestJs, Git y GitHub**.
-- 📫 Puedes contactarme: [vidalbryanalexander@gmail.com](mailto:vidalbryanalexander@gmail.com)
+- 📫 Puedes contactarme: [bryan.vidal@studios-tkoh.online](mailto:bryan.vidal@studios-tkoh.online)
 - 🌐 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/bryan-alexander-vidal-crispin-110410301)
 
 ---
