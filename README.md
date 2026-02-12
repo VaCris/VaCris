@@ -93,6 +93,10 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
   Aplicación de gestión de tareas con lógica de estados y puntuación.
   <br><br>
   <a href="https://github.com/VaCris/TKOH_TODOIST">
+    <img src="https://github.com/VaCris/VaCris/blob/main/TKOH_Todoist.jpeg" width="600" style="border-radius:10px;" />
+  </a>
+  <br><br>
+  <a href="https://github.com/VaCris/TKOH_TODOIST">
     <img src="https://img.shields.io/badge/App-C%23%20%7C%20.NET-000000?style=for-the-badge" />
   </a>
   <br><br>
@@ -104,6 +108,10 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
 <p align="center">
   <strong>Flowfly</strong><br>
   Aplicación experimental orientada a reproducción y manejo de audio.
+   <br><br>
+  <a href="https://github.com/VaCris/Flowfly">
+    <img src="https://github.com/VaCris/VaCris/blob/main/Flowfly.gif" width="600" height="950" style="border-radius:10px;" />
+  </a>
   <br><br>
   <img src="https://img.shields.io/badge/Frontend-React-000000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Mobile-React%20Native-000000?style=for-the-badge&logo=react" />
