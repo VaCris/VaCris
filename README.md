@@ -32,21 +32,21 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
 ---
 
 ## 🚀 Proyectos destacados | Featured Projects
-
 <p align="center">
-  <strong>SP-TV — Web de Series y Películas</strong><br>
-  Aplicación web para exploración de contenido audiovisual.
+  <strong>Docivo</strong><br>
+  Herramientas de PDF rápidas, privadas y sin distracciones.
   <br><br>
-  <a href="https://sp-tv.onrender.com/" target="_blank">
-    <img src="https://github.com/VaCris/VaCris/raw/main/web_series.png" width="600" style="border-radius:10px;" />
+  <a href="https://docivo.onrender.com/">
+    <img src="https://github.com/VaCris/VaCris/blob/main/Docivo.png" width="600" height="950" style="border-radius:10px;" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Web-JavaScript-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-REST-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deploy-Render-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%2019-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js%2016-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%204-000000?style=for-the-badge&logo=tailwindcss" />
   <br><br>
-  <a href="https://github.com/VaCris/sp-tv">
+  <img src="https://img.shields.io/badge/Status-Active-000000?style=for-the-badge" />
+  <br><br>
+  <a href="https://github.com/VaCris/docivo">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
