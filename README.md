@@ -51,6 +51,30 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
   </a>
 </p>
 
+<p align="center">
+  <strong>SPlay GO</strong><br>
+  Plataforma web para explorar películas y series con catálogo, búsqueda, filtros, detalles, temporadas, episodios y reproductor dinámico.
+  <br><br>
+  <a href="https://splay.evaluate.codes">
+    <img src="https://github.com/VaCris/VaCris/blob/main/splaygo.png" width="600" style="border-radius:10px;" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Frontend-React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Build-Vite-000000?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/API-TMDB-000000?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Status-Active-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deploy-Render-000000?style=for-the-badge" />
+  <br><br>
+  <a href="https://splay.evaluate.codes">
+    <img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/VaCris/splay-go">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 <p align="center">
   <strong>TKOH Bookstore Shop</strong><br>
