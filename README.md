@@ -23,7 +23,7 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,php,mysql,git,github,npm,nodejs,dotnet,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,jquery,php,mysql,git,github,npm,nodejs,dotnet,vscode,visualstudio" />
   </a>
 </div>
 
