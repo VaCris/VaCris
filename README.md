@@ -130,26 +130,6 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
 </p>
 
 <p align="center">
-  <strong>Flowfly</strong><br>
-  Aplicación experimental orientada a reproducción y manejo de audio.
-   <br><br>
-  <a href="https://github.com/VaCris/Flowfly">
-    <img src="https://github.com/VaCris/VaCris/blob/main/Flowfly.gif" width="600" height="950" style="border-radius:10px;" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Frontend-React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Status-Experimental-000000?style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Desktop-Planned-000000?style=for-the-badge" />
-  <br><br>
-  <a href="https://github.com/VaCris/Flowfly">
-    <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
-<p align="center">
   <strong>Reservation API</strong><br>
   API REST para gestión de reservas con autenticación y lógica de negocio.
   <br><br>
