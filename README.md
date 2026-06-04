@@ -98,7 +98,7 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
   <strong>Ataraxia Timer</strong><br>
   Aplicación orientada a productividad y gestión del tiempo.
   <br><br>
-  <a href="https://github.com/VaCris/Ataraxia-Timer">
+  <a href="https://ataraxiatimer.app/">
     <img src="https://github.com/VaCris/VaCris/blob/main/ATARAXIA.png" width="600" style="border-radius:10px;" />
   </a>
   <br><br>
