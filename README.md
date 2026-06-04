@@ -14,8 +14,8 @@
 - 💻 Desarrollador enfocado en **aplicaciones web y APIs**.
 - 🧠 Interesado en entender el **problema antes que la tecnología**.
 - 🔧 Trabajo con **JavaScript, PHP, C#, SQL/MySQL**, frameworks y herramientas modernas.
-- 📫 Contacto: [bryan.vidal@studios-tkoh.online](mailto:bryan.vidal@studios-tkoh.online)
-- 🌐 LinkedIn: [bryan-alexander-vidal-crispin-110410301](https://www.linkedin.com/in/bryan-alexander-vidal-crispin-110410301)
+- 📫 Contacto: [bryan.vidal](mailto:bryan.vidal@studios-tkoh.online)
+- 🌐 LinkedIn: [bryan.vidal](https://www.linkedin.com/in/bryan-alexander-vidal-crispin-110410301)
 
 ---
 
