@@ -75,25 +75,6 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
   </a>
 </p>
 
-
-<p align="center">
-  <strong>TKOH Bookstore Shop</strong><br>
-  Tienda web con manejo de productos y lógica de negocio.
-  <br><br>
-  <a href="https://github.com/VaCris/TKOH-Bookstore-Shop">
-    <img src="https://github.com/VaCris/VaCris/blob/main/web_shop.jpg" width="600" style="border-radius:10px;" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Backend-PHP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Templates-Twig-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-CSS%20%7C%20JavaScript-000000?style=for-the-badge" />
-  <br><br>
-  <a href="https://github.com/VaCris/TKOH-Bookstore-Shop">
-    <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
 <p align="center">
   <strong>Ataraxia Timer</strong><br>
   Aplicación orientada a productividad y gestión del tiempo.
@@ -116,7 +97,7 @@ Desarrollo de Software | Software Development | Desenvolvimento de Software
   <strong>TKOH Todoist</strong><br>
   Aplicación de gestión de tareas con lógica de estados y puntuación.
   <br><br>
-  <a href="https://github.com/VaCris/TKOH_TODOIST">
+  <a href="https://aputrak.onrender.com/">
     <img src="https://github.com/VaCris/VaCris/blob/main/TKOH_Todoist.jpeg" width="600" style="border-radius:10px;" />
   </a>
   <br><br>
