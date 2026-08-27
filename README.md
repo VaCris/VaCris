@@ -149,7 +149,6 @@ Trabajé sobre un **codebase existente**, participando en mejoras del frontend, 
 <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
 <img src="https://img.shields.io/badge/Dexie-IndexedDB-8F5BFF?style=flat-square" alt="Dexie IndexedDB" />
 
-[`Repositorio`](https://github.com/Studios-TKOH/motordesk-app)
 
 </td>
 
@@ -175,7 +174,7 @@ Incluye herramientas de procesamiento de documentos y una arquitectura orientada
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
 <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
 
-[`Repositorio`](https://github.com/VaCris/docivo) · [`Sitio web`](https://docivo.onrender.com/)
+[`Sitio web`](https://docivo.onrender.com/)
 
 </td>
 </tr>
@@ -199,7 +198,7 @@ El proyecto incluye mejoras de interfaz, responsive design, SEO y rendimiento.
 <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
-`Proyecto profesional · Código privado`
+[`Sitio web`](https://vacris.github.io/landing-page-serviserc/)
 
 </td>
 
@@ -221,7 +220,7 @@ Proyecto enfocado en diseño de interfaz, responsive design, experiencia de usua
 <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
 <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
 
-`Proyecto profesional · Código privado`
+[`Sitio web`](https://studios-tkoh.online/)
 
 </td>
 </tr>
@@ -254,7 +253,7 @@ Plataforma web para explorar películas y series mediante un catálogo dinámico
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" alt="Vite" />
 <img src="https://img.shields.io/badge/TMDB-01b4e4?style=flat-square" alt="TMDB" />
 
-[`Repositorio`](https://github.com/VaCris/splay-go) · [`Sitio web`](https://splay.evaluate.codes)
+[`Sitio web`](https://splay.evaluate.codes)
 
 </td>
 
@@ -273,7 +272,7 @@ Aplicación de productividad para gestión del tiempo y seguimiento de sesiones.
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
 <img src="https://img.shields.io/badge/REST%20API-blue?style=flat-square" alt="REST API" />
 
-[`Repositorio`](https://github.com/VaCris/Ataraxia-Timer) · [`Sitio web`](https://ataraxiatimer.app/)
+[`Sitio web`](https://ataraxiatimer.app/)
 
 </td>
 </tr>
@@ -336,7 +335,7 @@ El proyecto utiliza autenticación JWT y una arquitectura orientada a separar re
 
 Aplicación móvil orientada a la gestión de operaciones y funcionalidades empresariales.
 
-`Proyecto en desarrollo`
+[`Sitio web`](https://prestapp.studios-tkoh.online/)
 
 </td>
 
@@ -356,7 +355,7 @@ Rediseño de interfaz de usuario realizado como colaboración externa, enfocado 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/UI%2FUX-Redesign-blue?style=flat-square" alt="UI UX Redesign" />
 
-[`Ver rediseño`](https://github.com/LavenderEdit/aputrak/tree/redesign/aputrak-ui) · [`Ver demo`](https://aputrak.onrender.com/)
+[`Ver demo`](https://aputrak.onrender.com/)
 
 </td>
 </tr>
