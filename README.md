@@ -38,15 +38,15 @@ experiencia de usuario y mantenibilidad.
 
 Soy desarrollador de software enfocado en **frontend y desarrollo web**, con experiencia construyendo interfaces, aplicaciones y soluciones digitales para proyectos reales.
 
-Trabajo principalmente con **React, TypeScript y Next.js**, complementando el desarrollo frontend con experiencia en APIs, backend, bases de datos y servicios web.
+Trabajo principalmente con **React, TypeScript y Next.js**. También tengo experiencia integrando APIs, trabajando con bases de datos y desarrollando soluciones backend cuando el proyecto lo requiere.
 
 Me interesa especialmente crear productos que combinen:
 
-- Interfaces claras y funcionales.
+- Interfaces claras, responsivas y funcionales.
 - Buen rendimiento y experiencia de usuario.
 - Código mantenible y bien estructurado.
 - Integración con APIs y servicios externos.
-- Soluciones adaptadas a las necesidades reales del proyecto.
+- Soluciones adaptadas a necesidades reales del proyecto.
 
 ---
 
@@ -88,16 +88,16 @@ Me interesa especialmente crear productos que combinen:
 <tr>
 <td valign="top" width="50%">
 
-### Backend
+### Backend & APIs
 
 <img
-  src="https://skillicons.dev/icons?i=nestjs,nodejs,php,symfony,dotnet&theme=dark"
-  alt="NestJS, Node.js, PHP, Symfony y .NET"
+  src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark"
+  alt="NestJS y Node.js"
 />
 
 <br><br>
 
-**NestJS · Node.js · PHP · Symfony · C#/.NET**
+**NestJS · Node.js · APIs REST · WebSockets**
 
 </td>
 
@@ -106,13 +106,13 @@ Me interesa especialmente crear productos que combinen:
 ### Datos & Herramientas
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,postman&theme=dark"
-  alt="MySQL, Git, GitHub, VS Code, Visual Studio y Postman"
+  src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&theme=dark"
+  alt="MySQL, Git, GitHub, VS Code y Postman"
 />
 
 <br><br>
 
-**MySQL · SQL · Git · GitHub · VS Code · Visual Studio · Postman**
+**MySQL · SQL Server · SQL · Git · GitHub · GitLab · Postman**
 
 </td>
 </tr>
@@ -129,52 +129,51 @@ Me interesa especialmente crear productos que combinen:
 <td width="50%" valign="top">
 
 <a href="https://github.com/Studios-TKOH/motordesk-app">
-
 <img
   src="https://i.ibb.co/5zMRkLb/Motordesk-Login.webp"
   width="100%"
   alt="MotorDesk - aplicación web de gestión"
- />
-
+/>
 </a>
 
 ### MotorDesk
 
-Aplicación web para gestión de operaciones de una empresa del sector automotriz.
+Aplicación web para **gestión de flotas y facturación electrónica**.
 
-Trabajé sobre un **codebase existente**, participando en mejoras del frontend, gestión de estado y funcionamiento offline.
+Colaboré sobre un **codebase existente**, participando en mejoras de interfaz, gestión de estado y sincronización offline.
 
-<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat-square&logo=redux&logoColor=white" alt="Redux Saga" />
 <img src="https://img.shields.io/badge/Dexie-IndexedDB-8F5BFF?style=flat-square" alt="Dexie IndexedDB" />
 
+[`Repositorio`](https://github.com/Studios-TKOH/motordesk-app)
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="https://docivo.onrender.com/">
-
 <img
   src="https://i.ibb.co/B56zt7G7/Docivo.webp"
   width="100%"
   alt="Docivo - plataforma de herramientas PDF"
 />
-
 </a>
 
 ### Docivo
 
-Plataforma web para trabajar con archivos PDF desde una interfaz rápida y sencilla.
+Aplicación web de herramientas para trabajar con archivos PDF, enfocada en **simplicidad, privacidad y rendimiento**.
 
-Incluye herramientas de procesamiento de documentos y una arquitectura orientada a ofrecer una experiencia fluida tanto en escritorio como en dispositivos móviles.
+Desarrollada con una interfaz responsiva orientada a ofrecer una experiencia fluida tanto en escritorio como en dispositivos móviles.
 
-<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
+<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
 
-[`Sitio web`](https://docivo.onrender.com/)
+[`Sitio web`](https://docivo.onrender.com/) · [`Repositorio`](https://github.com/VaCris/docivo)
 
 </td>
 </tr>
@@ -182,21 +181,24 @@ Incluye herramientas de procesamiento de documentos y una arquitectura orientada
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://vacris.github.io/landing-page-serviserc/">
 <img
   src="https://i.ibb.co/N67ZxdXK/serviserc.webp"
   width="100%"
-  alt="Serviserc - sitio web"
+  alt="Serviserc - sitio web corporativo"
 />
+</a>
 
 ### Serviserc
 
-Migración y modernización de un sitio web existente hacia una arquitectura moderna basada en **Next.js, React y TypeScript**.
+Migración y modernización de un sitio web corporativo desde **HTML, CSS y JavaScript hacia Next.js**.
 
-El proyecto incluye mejoras de interfaz, responsive design, SEO y rendimiento.
+El proyecto se enfocó en mejorar la estructura del código, SEO, rendimiento y experiencia de desarrollo, manteniendo una interfaz responsiva.
 
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
 <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
 
 [`Sitio web`](https://vacris.github.io/landing-page-serviserc/)
 
@@ -204,21 +206,24 @@ El proyecto incluye mejoras de interfaz, responsive design, SEO y rendimiento.
 
 <td width="50%" valign="top">
 
+<a href="https://studios-tkoh.online/">
 <img
   src="https://i.ibb.co/39V7B160/proyecto-studios-tkoh.webp"
   width="100%"
   alt="Studios TKOH - sitio web institucional"
 />
+</a>
 
 ### Studios TKOH!
 
 Sitio web institucional desarrollado para presentar la identidad, servicios y proyectos de **Studios TKOH**.
 
-Proyecto enfocado en diseño de interfaz, responsive design, experiencia de usuario y rendimiento.
+Proyecto enfocado en diseño de interfaz, responsive design, animaciones y experiencia de usuario.
 
-<img src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs" alt="Next.js 15" />
-<img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
+<img src="https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 
 [`Sitio web`](https://studios-tkoh.online/)
 
@@ -239,15 +244,17 @@ Proyecto enfocado en diseño de interfaz, responsive design, experiencia de usua
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://splay.evaluate.codes">
 <img
   src="https://i.ibb.co/7t1j23KX/splaygo.webp"
   width="100%"
   alt="SPlay GO - plataforma de películas y series"
 />
+</a>
 
 ### SPlay GO
 
-Plataforma web para explorar películas y series mediante un catálogo dinámico.
+Plataforma web para explorar películas y series mediante un catálogo dinámico con búsqueda, filtros e integración con **TMDB API**.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" alt="Vite" />
@@ -259,15 +266,17 @@ Plataforma web para explorar películas y series mediante un catálogo dinámico
 
 <td width="50%" valign="top">
 
+<a href="https://ataraxiatimer.app/">
 <img
   src="https://i.ibb.co/r2Vr9Brz/Ataraxia-desktop.webp"
   width="100%"
   alt="Ataraxia Timer - aplicación de productividad"
 />
+</a>
 
 ### Ataraxia Timer
 
-Aplicación de productividad para gestión del tiempo y seguimiento de sesiones.
+Aplicación de productividad desarrollada desde cero para gestionar sesiones de trabajo mediante temporizador Pomodoro, tareas y etiquetas.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
 <img src="https://img.shields.io/badge/REST%20API-blue?style=flat-square" alt="REST API" />
@@ -280,17 +289,19 @@ Aplicación de productividad para gestión del tiempo y seguimiento de sesiones.
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/VaCris/telegram-web-capture">
 <img
   src="https://i.ibb.co/qMQTPvy0/TG-Downloader.webp"
   width="100%"
   alt="Telegram Media Downloader - extensión de navegador"
 />
+</a>
 
 ### Telegram Media Downloader
 
-Extensión de navegador orientada a facilitar la interacción con contenido multimedia dentro de Telegram Web.
+Extensión de Chrome con **Manifest V3** que restaura el acceso al botón de descarga nativo de Telegram Web en el visor multimedia y Stories.
 
-Desarrollada utilizando APIs del navegador y arquitectura **Manifest V3**.
+Implementa Content Scripts, manipulación del DOM y Service Workers sin almacenar ni interceptar los archivos.
 
 <img src="https://img.shields.io/badge/Chrome-Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
 <img src="https://img.shields.io/badge/Manifest-V3-4285F4?style=flat-square" alt="Manifest V3" />
@@ -302,20 +313,24 @@ Desarrollada utilizando APIs del navegador y arquitectura **Manifest V3**.
 
 <td width="50%" valign="top">
 
+<a href="https://github.com/VaCris/reservation-api">
 <img
   src="https://i.ibb.co/7xfy7PPq/reservation-api.webp"
   width="100%"
   alt="Reservation API - API REST"
 />
+</a>
 
 ### Reservation API
 
-API REST para gestión de reservas, autenticación y lógica de negocio.
+API REST para gestión de reservas con autenticación **JWT RS256**, detección de conflictos, procesamiento asíncrono y notificaciones en tiempo real.
 
-El proyecto utiliza autenticación JWT y una arquitectura orientada a separar responsabilidades y facilitar la evolución del sistema.
+Proyecto utilizado para profundizar en desarrollo backend con Symfony y PHP.
 
-<img src="https://img.shields.io/badge/PHP-Symfony-8F9BB3?style=flat-square&logo=symfony" alt="PHP Symfony" />
-<img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens" alt="JWT Authentication" />
+<img src="https://img.shields.io/badge/Symfony-7.3-000000?style=flat-square&logo=symfony" alt="Symfony 7.3" />
+<img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.2" />
+<img src="https://img.shields.io/badge/MySQL-Doctrine-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Doctrine" />
+<img src="https://img.shields.io/badge/JWT-RS256-black?style=flat-square&logo=jsonwebtokens" alt="JWT RS256" />
 
 [`Repositorio`](https://github.com/VaCris/reservation-api)
 
@@ -325,15 +340,23 @@ El proyecto utiliza autenticación JWT y una arquitectura orientada a separar re
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://prestapp.studios-tkoh.online/">
 <img
   src="https://i.ibb.co/6RLk1JVh/Prest-App-Doc.webp"
   width="100%"
   alt="PrestaApp Mobile"
 />
+</a>
 
 ### PrestaApp Mobile
 
-Aplicación móvil orientada a la gestión de operaciones y funcionalidades empresariales.
+Colaboración en una aplicación móvil de gestión de préstamos.
+
+Participé en mejoras de UI/UX, seguridad, pruebas, procesos backend y refactorización de código.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square" alt="Riverpod" />
 
 [`Sitio web`](https://prestapp.studios-tkoh.online/)
 
@@ -341,18 +364,22 @@ Aplicación móvil orientada a la gestión de operaciones y funcionalidades empr
 
 <td width="50%" valign="top">
 
+<a href="https://aputrak.onrender.com/">
 <img
   src="https://i.ibb.co/GyWnnw7/Aputrak.webp"
   width="100%"
   alt="Aputrak - rediseño de interfaz"
 />
+</a>
 
 ### Aputrak
 
-Rediseño de interfaz de usuario realizado como colaboración externa, enfocado en UX, consistencia visual y navegación.
+Rediseño de interfaz e integración con API para una aplicación de gestión de horarios y actividades.
 
-<img src="https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=nextdotjs" alt="Next.js 15" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+Trabajo enfocado en componentes reutilizables, consistencia visual y mejora de la experiencia de usuario.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/UI%2FUX-Redesign-blue?style=flat-square" alt="UI UX Redesign" />
 
 [`Ver demo`](https://aputrak.onrender.com/)
@@ -362,6 +389,40 @@ Rediseño de interfaz de usuario realizado como colaboración externa, enfocado 
 </table>
 
 </details>
+
+---
+
+## Experiencia
+
+**Frontend Developer — Lubricantes Claudia**  
+_Ago 2025 – Dic 2025_
+
+Desarrollo frontend con arquitectura modular, componentes reutilizables y mejoras orientadas a mantenibilidad, rendimiento y reglas de negocio.
+
+**Proyecto Freelance — Plataforma DRM**  
+_Oct 2025_
+
+Participación en una plataforma de gestión de licencias y suscripciones utilizando **NestJS, APIs REST y WebSockets**, incluyendo integración de servicios, autenticación y validación de acceso.
+
+**Desarrollador Web — JHARDSYSTEX**  
+_Feb 2025 – Jun 2025_
+
+Desarrollo frontend y diseño de base de datos relacional para una aplicación de gestión de tickets, además de pruebas funcionales.
+
+**Desarrollador Web — SERVISERC**  
+_Jul 2024 – Dic 2024_
+
+Creación y mantenimiento de sitios web responsivos e implementación de funcionalidades según requerimientos del cliente.
+
+---
+
+## Formación
+
+**Desarrollo de Software — SENATI**  
+Egresado, 2025
+
+**Cloud Computing (AWS / Azure / GCP) — Universidad Nacional de Ingeniería (UNI)**  
+2025
 
 ---
 
