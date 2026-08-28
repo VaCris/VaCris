@@ -390,42 +390,6 @@ Trabajo enfocado en componentes reutilizables, consistencia visual y mejora de l
 
 </details>
 
----
-
-## Experiencia
-
-**Frontend Developer — Lubricantes Claudia**  
-_Ago 2025 – Dic 2025_
-
-Desarrollo frontend con arquitectura modular, componentes reutilizables y mejoras orientadas a mantenibilidad, rendimiento y reglas de negocio.
-
-**Proyecto Freelance — Plataforma DRM**  
-_Oct 2025_
-
-Participación en una plataforma de gestión de licencias y suscripciones utilizando **NestJS, APIs REST y WebSockets**, incluyendo integración de servicios, autenticación y validación de acceso.
-
-**Desarrollador Web — JHARDSYSTEX**  
-_Feb 2025 – Jun 2025_
-
-Desarrollo frontend y diseño de base de datos relacional para una aplicación de gestión de tickets, además de pruebas funcionales.
-
-**Desarrollador Web — SERVISERC**  
-_Jul 2024 – Dic 2024_
-
-Creación y mantenimiento de sitios web responsivos e implementación de funcionalidades según requerimientos del cliente.
-
----
-
-## Formación
-
-**Desarrollo de Software — SENATI**  
-Egresado, 2025
-
-**Cloud Computing (AWS / Azure / GCP) — Universidad Nacional de Ingeniería (UNI)**  
-2025
-
----
-
 ## GitHub Stats
 
 <div align="center">
