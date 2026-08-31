@@ -25,10 +25,7 @@ experiencia de usuario y mantenibilidad.
 
 <br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat"
-  alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=VaCris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -58,25 +55,18 @@ Me interesa especialmente crear productos que combinen:
 
 ### Core
 
-<img
-  src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript&theme=dark"
-  alt="React, TypeScript, Next.js y JavaScript"
-/>
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript&theme=dark" alt="React, TypeScript, Next.js y JavaScript" />
 
 <br><br>
 
 **React · TypeScript · Next.js · JavaScript**
 
 </td>
-
 <td valign="top" width="50%">
 
 ### Frontend
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,tailwind,vite&theme=dark"
-  alt="HTML, CSS, Tailwind CSS y Vite"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite&theme=dark" alt="HTML, CSS, Tailwind CSS y Vite" />
 
 <br><br>
 
@@ -84,31 +74,23 @@ Me interesa especialmente crear productos que combinen:
 
 </td>
 </tr>
-
 <tr>
 <td valign="top" width="50%">
 
 ### Backend & APIs
 
-<img
-  src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark"
-  alt="NestJS y Node.js"
-/>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark" alt="NestJS y Node.js" />
 
 <br><br>
 
 **NestJS · Node.js · APIs REST · WebSockets**
 
 </td>
-
 <td valign="top" width="50%">
 
 ### Datos & Herramientas
 
-<img
-  src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&theme=dark"
-  alt="MySQL, Git, GitHub, VS Code y Postman"
-/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&theme=dark" alt="MySQL, Git, GitHub, VS Code y Postman" />
 
 <br><br>
 
@@ -129,11 +111,7 @@ Me interesa especialmente crear productos que combinen:
 <td width="50%" valign="top">
 
 <a href="https://github.com/Studios-TKOH/motordesk-app">
-<img
-  src="https://i.ibb.co/5zMRkLb/Motordesk-Login.webp"
-  width="100%"
-  alt="MotorDesk - aplicación web de gestión"
-/>
+<img src="https://i.ibb.co/5zMRkLb/Motordesk-Login.webp" width="100%" alt="MotorDesk - aplicación web de gestión" />
 </a>
 
 ### MotorDesk
@@ -151,15 +129,10 @@ Colaboré sobre un **codebase existente**, participando en mejoras de interfaz, 
 [`Repositorio`](https://github.com/Studios-TKOH/motordesk-app)
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://docivo.onrender.com/">
-<img
-  src="https://i.ibb.co/B56zt7G7/Docivo.webp"
-  width="100%"
-  alt="Docivo - plataforma de herramientas PDF"
-/>
+<img src="https://s13.gifyu.com/images/bnyxl.gif" width="100%" alt="Docivo - demostración de herramientas PDF" />
 </a>
 
 ### Docivo
@@ -177,16 +150,11 @@ Desarrollada con una interfaz responsiva orientada a ofrecer una experiencia flu
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://vacris.github.io/landing-page-serviserc/">
-<img
-  src="https://i.ibb.co/N67ZxdXK/serviserc.webp"
-  width="100%"
-  alt="Serviserc - sitio web corporativo"
-/>
+<img src="https://i.ibb.co/N67ZxdXK/serviserc.webp" width="100%" alt="Serviserc - sitio web corporativo" />
 </a>
 
 ### Serviserc
@@ -203,15 +171,10 @@ El proyecto se enfocó en mejorar la estructura del código, SEO, rendimiento y 
 [`Sitio web`](https://vacris.github.io/landing-page-serviserc/)
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://studios-tkoh.online/">
-<img
-  src="https://i.ibb.co/39V7B160/proyecto-studios-tkoh.webp"
-  width="100%"
-  alt="Studios TKOH - sitio web institucional"
-/>
+<img src="https://i.ibb.co/39V7B160/proyecto-studios-tkoh.webp" width="100%" alt="Studios TKOH - sitio web institucional" />
 </a>
 
 ### Studios TKOH!
@@ -245,11 +208,7 @@ Proyecto enfocado en diseño de interfaz, responsive design, animaciones y exper
 <td width="50%" valign="top">
 
 <a href="https://splay.evaluate.codes">
-<img
-  src="https://i.ibb.co/7t1j23KX/splaygo.webp"
-  width="100%"
-  alt="SPlay GO - plataforma de películas y series"
-/>
+<img src="https://i.ibb.co/7t1j23KX/splaygo.webp" width="100%" alt="SPlay GO - plataforma de películas y series" />
 </a>
 
 ### SPlay GO
@@ -263,15 +222,10 @@ Plataforma web para explorar películas y series mediante un catálogo dinámico
 [`Sitio web`](https://splay.evaluate.codes)
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://ataraxiatimer.app/">
-<img
-  src="https://i.ibb.co/r2Vr9Brz/Ataraxia-desktop.webp"
-  width="100%"
-  alt="Ataraxia Timer - aplicación de productividad"
-/>
+<img src="https://i.ibb.co/r2Vr9Brz/Ataraxia-desktop.webp" width="100%" alt="Ataraxia Timer - aplicación de productividad" />
 </a>
 
 ### Ataraxia Timer
@@ -285,16 +239,11 @@ Aplicación de productividad desarrollada desde cero para gestionar sesiones de 
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/VaCris/telegram-web-capture">
-<img
-  src="https://i.ibb.co/qMQTPvy0/TG-Downloader.webp"
-  width="100%"
-  alt="Telegram Media Downloader - extensión de navegador"
-/>
+<img src="https://i.ibb.co/qMQTPvy0/TG-Downloader.webp" width="100%" alt="Telegram Media Downloader - extensión de navegador" />
 </a>
 
 ### Telegram Media Downloader
@@ -310,15 +259,10 @@ Implementa Content Scripts, manipulación del DOM y Service Workers sin almacena
 [`Repositorio`](https://github.com/VaCris/telegram-web-capture)
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://github.com/VaCris/reservation-api">
-<img
-  src="https://i.ibb.co/7xfy7PPq/reservation-api.webp"
-  width="100%"
-  alt="Reservation API - API REST"
-/>
+<img src="https://i.ibb.co/7xfy7PPq/reservation-api.webp" width="100%" alt="Reservation API - API REST" />
 </a>
 
 ### Reservation API
@@ -336,16 +280,11 @@ Proyecto utilizado para profundizar en desarrollo backend con Symfony y PHP.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://prestapp.studios-tkoh.online/">
-<img
-  src="https://i.ibb.co/6RLk1JVh/Prest-App-Doc.webp"
-  width="100%"
-  alt="PrestaApp Mobile"
-/>
+<img src="https://i.ibb.co/6RLk1JVh/Prest-App-Doc.webp" width="100%" alt="PrestaApp Mobile" />
 </a>
 
 ### PrestaApp Mobile
@@ -361,15 +300,10 @@ Participé en mejoras de UI/UX, seguridad, pruebas, procesos backend y refactori
 [`Sitio web`](https://prestapp.studios-tkoh.online/)
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://aputrak.onrender.com/">
-<img
-  src="https://i.ibb.co/GyWnnw7/Aputrak.webp"
-  width="100%"
-  alt="Aputrak - rediseño de interfaz"
-/>
+<img src="https://i.ibb.co/GyWnnw7/Aputrak.webp" width="100%" alt="Aputrak - rediseño de interfaz" />
 </a>
 
 ### Aputrak
@@ -394,16 +328,8 @@ Trabajo enfocado en componentes reutilizables, consistencia visual y mejora de l
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=VaCris&show_icons=true&theme=vue-dark&hide_border=true"
-  height="165"
-  alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=VaCris&show_icons=true&theme=vue-dark&hide_border=true" height="165" alt="GitHub Stats" />
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VaCris&layout=compact&theme=vue-dark&hide_border=true"
-  height="165"
-  alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VaCris&layout=compact&theme=vue-dark&hide_border=true" height="165" alt="Most Used Languages" />
 
 </div>
