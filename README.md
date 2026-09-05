@@ -205,6 +205,22 @@ Proyecto enfocado en diseño de interfaz, responsive design, animaciones y exper
 
 <table>
 <tr>
+<td width="100%" valign="top" colspan="2">
+
+### Plataforma DRM
+
+Proyecto freelance para **gestión de licencias y suscripciones digitales**. Participé en el desarrollo backend con NestJS, APIs REST y WebSockets, trabajando en autenticación, validación de acceso e integración con servicios externos para aplicaciones web y móviles.
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/REST-API-blue?style=flat-square" alt="REST API" />
+<img src="https://img.shields.io/badge/WebSockets-Realtime-010101?style=flat-square" alt="WebSockets" />
+
+*Proyecto freelance · Código y plataforma no públicos.*
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://splay.evaluate.codes">
