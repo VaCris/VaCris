@@ -2,13 +2,13 @@
 
 # Bryan Vidal
 
-### Frontend / Web Developer
+### Full Stack Developer Jr.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+Next.js;Interfaces+web+modernas+y+performantes;Aplicaciones+web+y+soluciones+digitales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+Spring+WebFlux;Node.js+%7C+NestJS+%7C+APIs+REST" alt="Typing SVG" />
 
 <p>
-Desarrollo interfaces y aplicaciones web modernas con foco en rendimiento,
-experiencia de usuario y mantenibilidad.
+Desarrollo aplicaciones web full stack con React, Next.js, TypeScript, Java y Spring Boot,
+integrando interfaces, servicios backend y APIs REST.
 </p>
 
 <div>
@@ -33,9 +33,9 @@ experiencia de usuario y mantenibilidad.
 
 ## Sobre mí
 
-Soy desarrollador de software enfocado en **frontend y desarrollo web**, con experiencia construyendo interfaces, aplicaciones y soluciones digitales para proyectos reales.
+Soy desarrollador de software con experiencia en **desarrollo web y aplicaciones full stack**, participando en proyectos profesionales y freelance.
 
-Trabajo principalmente con **React, TypeScript y Next.js**. También tengo experiencia integrando APIs, trabajando con bases de datos y desarrollando soluciones backend cuando el proyecto lo requiere.
+Trabajo con **React, TypeScript y Next.js** en frontend, y con **Java, Spring Boot, Spring WebFlux, Node.js y NestJS** en backend. También tengo experiencia integrando APIs REST, WebSockets y bases de datos relacionales.
 
 Me interesa especialmente crear productos que combinen:
 
@@ -59,7 +59,7 @@ Me interesa especialmente crear productos que combinen:
 
 <br><br>
 
-**React · TypeScript · Next.js · JavaScript**
+**React · TypeScript · Next.js · JavaScript · Java · Spring Boot**
 
 </td>
 <td valign="top" width="50%">
@@ -79,11 +79,11 @@ Me interesa especialmente crear productos que combinen:
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark" alt="NestJS y Node.js" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=dark" alt="Java, Spring, Node.js y NestJS" />
 
 <br><br>
 
-**NestJS · Node.js · APIs REST · WebSockets**
+**Java · Spring Boot · Spring WebFlux · Node.js · NestJS · APIs REST · WebSockets**
 
 </td>
 <td valign="top" width="50%">
@@ -94,13 +94,13 @@ Me interesa especialmente crear productos que combinen:
 
 <br><br>
 
-**MySQL · SQL Server · SQL · Git · GitHub · GitLab · Postman**
+**MySQL · SQL Server · SQL · Git · GitHub · GitLab · Docker · Postman**
 
 </td>
 </tr>
 </table>
 
-> Mi principal enfoque es el desarrollo **frontend/web**. Backend, APIs y bases de datos forman parte de mi experiencia complementaria.
+> Perfil orientado a desarrollo **Full Stack**, con React/Next.js en frontend y Java/Spring Boot, Node.js/NestJS en backend.
 
 ---
 
@@ -159,9 +159,9 @@ Desarrollada con una interfaz responsiva orientada a ofrecer una experiencia flu
 
 ### Serviserc
 
-Migración y modernización de un sitio web corporativo desde **HTML, CSS y JavaScript hacia Next.js**.
+Migración de una **landing page existente a un sitio web corporativo** utilizando Next.js 16, React 19, TypeScript y Tailwind CSS 4.
 
-El proyecto se enfocó en mejorar la estructura del código, SEO, rendimiento y experiencia de desarrollo, manteniendo una interfaz responsiva.
+El proyecto incluyó la reestructuración de la interfaz, navegación y componentes para ampliar el contenido y adaptarlo a las necesidades de la empresa.
 
 <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
 <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react" alt="React 19" />
