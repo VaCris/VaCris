@@ -153,7 +153,7 @@ Desarrollada con una interfaz responsiva orientada a ofrecer una experiencia flu
 <tr>
 <td width="50%" valign="top">
 
-<a href="serviserc.pages.dev">
+<a href="https://serviserc.pages.dev/">
 <img src="https://i.ibb.co/N67ZxdXK/serviserc.webp" width="100%" alt="Serviserc - sitio web corporativo" />
 </a>
 
@@ -168,7 +168,7 @@ El proyecto incluyó la reestructuración de la interfaz, navegación y componen
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
 
-[`Sitio web`](serviserc.pages.dev)
+[`Sitio web`](https://serviserc.pages.dev/)
 
 </td>
 <td width="50%" valign="top">
